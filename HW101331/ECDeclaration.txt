@@ -1,0 +1,5 @@
+1. Start up ideas (15-30 points)
+2. Creating a new field to evaluate a start up idea. Modified both the toString() and the compareTo() and Added a field in the GUI (5 points)
+3. Add some color to the form (2 points)
+4. Add a picture (3 points)
+

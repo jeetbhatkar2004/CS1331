@@ -1,0 +1,54 @@
+1:
+Problem: on-demand cleaning services, and providing affordable and reliable cleaning services could be an effective solution to this problem.
+Target Customer: Busy working professionals, busy parents, and elderly people.
+Customer Need: 9
+Known People With Problem: 13
+Target Market Size: 2000000
+Competitors: TaskRabbit, Handy
+Effectiveness: 8
+
+2:
+Problem: Providing healthy and affordable meal options for people with dietary restrictions could be a successful business idea, but there may be challenges in sourcing ingredients and meeting specific dietary needs.
+Target Customer: People with dietary restrictions such as gluten-free, dairy-free, vegan, or paleo.
+Customer Need: 8
+Known People With Problem: 12
+Target Market Size: 8000000
+Competitors: BlueApron, HelloFresh
+Effectiveness:7
+
+3:
+Problem: Providing a trustworthy and transparent online review platform could be a highly effective solution to this problem, and there is a growing demand for such services
+Target Customer: Consumers who rely on online reviews and ratings to make purchasing decisions.
+Customer Need: 8
+Known People With Problem: 7
+Target Market Size: 500000
+Competitors: Yelp, TripAdvisor
+Effectiveness: 9
+
+4:
+Problem: Providing affordable and reliable transportation options in rural areas could be a successful business idea
+Target Customer: People who live in rural areas and do not have access to their own transportation.
+Customer Need: 9
+Known People With Problem: 10
+Target Market Size: 1000000
+Competitors: Uber, lyft
+Effectiveness: 7
+
+5:
+Problem: Providing personalized and efficient customer service in the e-commerce industry could be a successful business idea, and there is a growing demand for such services.
+Target Customer: Online shoppers who require customer service support.
+Customer Need: 8
+Known People With Problem: 5
+Target Market Size: 300000
+Competitors: ChatBot
+Effectiveness: 6
+
+6:
+Problem: Providing access to mental health services in underserved communities could have a significant positive impact on people's lives, and there is a growing demand for such services.
+Target Customer: People who live in underserved communities and need access to mental health services.
+Customer Need: 8
+Known People With Problem: 19
+Target Market Size: 5000000
+Competitors: Teletherapy Providers, MentalHealth Apps, SoulMind
+Effectiveness: 7
+
